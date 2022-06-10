@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927560802926",
+    "project_id": "studenti-app",
+    "storage_bucket": "studenti-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927560802926:android:e8d9fd05e0a9d38bcc3c7f",
+        "android_client_info": {
+          "package_name": "com.example.prisustvo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927560802926-jsa05hes82h3u1r6fmt6h428lu6vfpqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyFXW4_AzEkJE_-JBadbKNikTDI5CxXmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927560802926-jsa05hes82h3u1r6fmt6h428lu6vfpqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
